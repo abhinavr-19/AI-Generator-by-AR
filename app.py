@@ -25,7 +25,7 @@ def generate_video(prompt, num_frames=10, fps=5):
 
 # Gradio UI
 with gr.Blocks() as demo:
-    gr.Markdown("# 🎥 AI Text-to-Video Generator")
+    gr.Markdown("# 🎥 AI Text-to-Video Generator by AR")
     
     with gr.Row():
         prompt_input = gr.Textbox(label="Enter a Text Prompt")
