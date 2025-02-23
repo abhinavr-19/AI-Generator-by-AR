@@ -1,0 +1,9 @@
+gradio
+diffusers
+transformers
+torch
+torchvision
+torchaudio
+imageio
+imageio[ffmpeg]
+accelerate
